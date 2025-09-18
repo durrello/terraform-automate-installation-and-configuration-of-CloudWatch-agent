@@ -1,4 +1,3 @@
-```markdown
 # Terraform AWS CloudWatch Agent Automation
 
 This repository contains Terraform code to automate the installation and configuration of the AWS CloudWatch Agent on Amazon EC2 instances using AWS Systems Manager (SSM). It supports both Linux and Windows EC2 instances configured via SSM parameters and associations, making centralized monitoring effortless.
