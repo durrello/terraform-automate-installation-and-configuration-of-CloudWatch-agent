@@ -28,8 +28,8 @@ This repository contains Terraform code to automate the installation and configu
 1. Clone this repository:
 
    ```
-   git clone https://github.com/your-org/terraform-cloudwatch-agent-automation.git
-   cd terraform-cloudwatch-agent-automation
+   git clone https://github.com/durrello/terraform-automate-installation-and-configuration-of-CloudWatch-agent.git
+   cd terraform-automate-installation-and-configuration-of-CloudWatch-agent
    ```
 
 2. Initialize Terraform:
